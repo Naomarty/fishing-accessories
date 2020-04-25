@@ -1,0 +1,25 @@
+.flex-parent {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+.box-1 {
+  box-sizing: border-box;
+  border: 10px groove gray;
+  margin: 20px 0 0 10px;
+  width: 60%;
+}
+
+.box-2 {
+  box-sizing: border-box;
+  border: 10px groove gray;
+  margin: 20px 10px 0 10px;
+  padding: 0 10px;
+  width: 30%;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
